@@ -11,7 +11,7 @@
 
 ---
 
-## 👤 Profile
+## Profile
 **Technical Game Designer & Engineering Mathematics Student**
 
 I am a Technical Game Designer with 5+ years of indie development experience, currently pursuing an **M.Sc. in Engineering Mathematics at KTH Royal Institute of Technology**.
@@ -22,7 +22,7 @@ I am passionate about game development while also studying relevant math courses
 
 ---
 
-## 🛠 Relevant Skills
+## Relevant Skills
 * **Game Design:** Systems Design, Economy Balancing, Progression Curves, Combat Tuning (TTK, Movement).
 * **Technical:** C#, C++, Blueprints, Visual Scripting, Git/Version Control.
 * **Data & Tools:** Spreadsheets (Excel/Google Sheets) for balancing, Statistical Analysis of gameplay metrics.
@@ -30,7 +30,7 @@ I am passionate about game development while also studying relevant math courses
 
 ---
 
-## 🎮 Selected Projects
+## Selected Projects
 
 ### 1. Project Vanguard (Titanfall Fan Project)
 **Role:** Core Developer & Gameplay Balancer
@@ -46,7 +46,7 @@ I am passionate about game development while also studying relevant math courses
 
 ---
 
-## 🎓 Education
+## Education
 
 ### M.Sc. Programme in Engineering Mathematics
 **KTH Royal Institute of Technology** | Stockholm | *2024 – Present*
@@ -63,6 +63,6 @@ My studies provide the theoretical framework needed for complex system design, p
 
 ---
 
-## 📺 Portfolio & Visuals
+## Portfolio & Visuals
 **View my development breakdowns and gameplay showcases here:**
-👉 [**youtube.com/@harald1**](https://www.youtube.com/@harald1)
+[**youtube.com/@harald1**](https://www.youtube.com/@harald1)
